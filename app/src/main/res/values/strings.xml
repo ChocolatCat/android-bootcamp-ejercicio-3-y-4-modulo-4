@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChocoCalculadora</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+    <string name="numberOne">Primer Numero</string>
+    <string name="numberTwo">Segundo Numero</string>
+    <string name="copyright">2023@Chocola</string>
+    <string name="fillNumbers">Debe rellenar los campos para operar</string>
+    <string name="divideByZero">No debe dividir por 0!!</string>
+    <string name="exit">Salir</string>
+</resources>
